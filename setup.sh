@@ -2,7 +2,7 @@
 
 echo "Setup VIM environment."
 
-cp vim ~/.vim -r
+cp -r vim ~/.vim
 cp vimrc ~/.vimrc
 
 echo "Finish Setup VIM environment."
